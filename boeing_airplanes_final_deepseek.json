@@ -1,0 +1,544 @@
+{
+    "boeing_airplanes": [
+        {
+            "model": "707-120",
+            "year_launch": 1958,
+            "range_km": 6800,
+            "consuption_kg_h": 7000,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT3C-6"],
+            "passenger_capacity": 110,
+            "cargo_capacity_kg": 20000
+        },
+        {
+            "model": "707-120B",
+            "year_launch": 1960,
+            "range_km": 7800,
+            "consuption_kg_h": 6800,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT3D-1"],
+            "passenger_capacity": 110,
+            "cargo_capacity_kg": 20000
+        },
+        {
+            "model": "707-220",
+            "year_launch": 1959,
+            "range_km": 6800,
+            "consuption_kg_h": 7200,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT4A-3"],
+            "passenger_capacity": 110,
+            "cargo_capacity_kg": 20000
+        },
+        {
+            "model": "707-320",
+            "year_launch": 1959,
+            "range_km": 9200,
+            "consuption_kg_h": 7500,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT4A-3"],
+            "passenger_capacity": 141,
+            "cargo_capacity_kg": 25000
+        },
+        {
+            "model": "707-320B",
+            "year_launch": 1962,
+            "range_km": 9200,
+            "consuption_kg_h": 7300,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT3D-3"],
+            "passenger_capacity": 141,
+            "cargo_capacity_kg": 25000
+        },
+        {
+            "model": "707-320C",
+            "year_launch": 1963,
+            "range_km": 9200,
+            "consuption_kg_h": 7300,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT3D-3"],
+            "passenger_capacity": 141,
+            "cargo_capacity_kg": 30000
+        },
+        {
+            "model": "707-420",
+            "year_launch": 1960,
+            "range_km": 9200,
+            "consuption_kg_h": 7500,
+            "cruise_speed_km_h": 917,
+            "engines": ["Rolls-Royce Conway 508"],
+            "passenger_capacity": 141,
+            "cargo_capacity_kg": 25000
+        },
+        {
+            "model": "717-200",
+            "year_launch": 1999,
+            "range_km": 3815,
+            "consuption_kg_h": 2400,
+            "cruise_speed_km_h": 822,
+            "engines": ["Rolls-Royce BR715-A1-30", "Rolls-Royce BR715-C1-30"],
+            "passenger_capacity": [106, 117],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "727-100",
+            "year_launch": 1963,
+            "range_km": 4300,
+            "consuption_kg_h": 4500,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT8D-1", "Pratt & Whitney JT8D-7"],
+            "passenger_capacity": [131, 149],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "727-100C",
+            "year_launch": 1965,
+            "range_km": 4300,
+            "consuption_kg_h": 4500,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT8D-1", "Pratt & Whitney JT8D-7"],
+            "passenger_capacity": [131, 149],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "727-200",
+            "year_launch": 1967,
+            "range_km": 4300,
+            "consuption_kg_h": 4700,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT8D-9", "Pratt & Whitney JT8D-11"],
+            "passenger_capacity": [163, 189],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "727-200 Advanced",
+            "year_launch": 1972,
+            "range_km": 4600,
+            "consuption_kg_h": 4800,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT8D-15", "Pratt & Whitney JT8D-17"],
+            "passenger_capacity": [163, 189],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "727-200F",
+            "year_launch": 1981,
+            "range_km": 4300,
+            "consuption_kg_h": 4800,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT8D-17AR"],
+            "passenger_capacity": 0,
+            "cargo_capacity_kg": 27000
+        },
+        {
+            "model": "737-100",
+            "year_launch": 1967,
+            "range_km": 3440,
+            "consuption_kg_h": 2400,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT8D-7"],
+            "passenger_capacity": [85, 124],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737-200",
+            "year_launch": 1967,
+            "range_km": 4400,
+            "consuption_kg_h": 2600,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT8D-9", "Pratt & Whitney JT8D-15"],
+            "passenger_capacity": [85, 124],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737-300",
+            "year_launch": 1984,
+            "range_km": 4204,
+            "consuption_kg_h": 2700,
+            "cruise_speed_km_h": 917,
+            "engines": ["CFM International CFM56-3"],
+            "passenger_capacity": [128, 149],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737-400",
+            "year_launch": 1988,
+            "range_km": 4204,
+            "consuption_kg_h": 2800,
+            "cruise_speed_km_h": 917,
+            "engines": ["CFM International CFM56-3"],
+            "passenger_capacity": [146, 168],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737-500",
+            "year_launch": 1989,
+            "range_km": 4444,
+            "consuption_kg_h": 2700,
+            "cruise_speed_km_h": 917,
+            "engines": ["CFM International CFM56-3"],
+            "passenger_capacity": [110, 132],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737-600",
+            "year_launch": 1998,
+            "range_km": 5648,
+            "consuption_kg_h": 2800,
+            "cruise_speed_km_h": 917,
+            "engines": ["CFM International CFM56-7"],
+            "passenger_capacity": [108, 123],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737-700",
+            "year_launch": 1997,
+            "range_km": 6230,
+            "consuption_kg_h": 2800,
+            "cruise_speed_km_h": 917,
+            "engines": ["CFM International CFM56-7"],
+            "passenger_capacity": [126, 149],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737-800",
+            "year_launch": 1998,
+            "range_km": 5765,
+            "consuption_kg_h": 2900,
+            "cruise_speed_km_h": 917,
+            "engines": ["CFM International CFM56-7"],
+            "passenger_capacity": [162, 189],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737-900",
+            "year_launch": 2001,
+            "range_km": 5900,
+            "consuption_kg_h": 3000,
+            "cruise_speed_km_h": 917,
+            "engines": ["CFM International CFM56-7"],
+            "passenger_capacity": [177, 189],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737 MAX 7",
+            "year_launch": 2017,
+            "range_km": 7130,
+            "consuption_kg_h": 2900,
+            "cruise_speed_km_h": 917,
+            "engines": ["CFM International LEAP-1B"],
+            "passenger_capacity": [138, 153],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737 MAX 8",
+            "year_launch": 2017,
+            "range_km": 6570,
+            "consuption_kg_h": 3000,
+            "cruise_speed_km_h": 917,
+            "engines": ["CFM International LEAP-1B"],
+            "passenger_capacity": [162, 178],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737 MAX 9",
+            "year_launch": 2017,
+            "range_km": 6570,
+            "consuption_kg_h": 3100,
+            "cruise_speed_km_h": 917,
+            "engines": ["CFM International LEAP-1B"],
+            "passenger_capacity": [178, 193],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "737 MAX 10",
+            "year_launch": 2021,
+            "range_km": 6110,
+            "consuption_kg_h": 3200,
+            "cruise_speed_km_h": 917,
+            "engines": ["CFM International LEAP-1B"],
+            "passenger_capacity": [188, 204],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "747-100",
+            "year_launch": 1969,
+            "range_km": 9800,
+            "consuption_kg_h": 11000,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT9D-7A"],
+            "passenger_capacity": [366, 452],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "747-200",
+            "year_launch": 1971,
+            "range_km": 12700,
+            "consuption_kg_h": 11500,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT9D-7R4G2", "General Electric CF6-50E2", "Rolls-Royce RB211-524D4"],
+            "passenger_capacity": [366, 452],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "747-300",
+            "year_launch": 1983,
+            "range_km": 12400,
+            "consuption_kg_h": 11700,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney JT9D-7R4G2", "General Electric CF6-50E2", "Rolls-Royce RB211-524D4"],
+            "passenger_capacity": [366, 496],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "747-400",
+            "year_launch": 1989,
+            "range_km": 13450,
+            "consuption_kg_h": 11800,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney PW4056", "General Electric CF6-80C2B1F", "Rolls-Royce RB211-524G/H"],
+            "passenger_capacity": [416, 524],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "747-400D",
+            "year_launch": 1991,
+            "range_km": 6850,
+            "consuption_kg_h": 11800,
+            "cruise_speed_km_h": 917,
+            "engines": ["Pratt & Whitney PW4056", "General Electric CF6-80C2B1F", "Rolls-Royce RB211-524G/H"],
+            "passenger_capacity": [568, 660],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "747-8",
+            "year_launch": 2011,
+            "range_km": 14320,
+            "consuption_kg_h": 12000,
+            "cruise_speed_km_h": 917,
+            "engines": ["General Electric GEnx-2B67"],
+            "passenger_capacity": [410, 467],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "747-8F",
+            "year_launch": 2011,
+            "range_km": 8130,
+            "consuption_kg_h": 12000,
+            "cruise_speed_km_h": 917,
+            "engines": ["General Electric GEnx-2B67"],
+            "passenger_capacity": 0,
+            "cargo_capacity_kg": 134000
+        },
+        {
+            "model": "757-200",
+            "year_launch": 1982,
+            "range_km": 7222,
+            "consuption_kg_h": 3900,
+            "cruise_speed_km_h": 850,
+            "engines": ["Rolls-Royce RB211-535C", "Rolls-Royce RB211-535E4", "Pratt & Whitney PW2037", "Pratt & Whitney PW2040"],
+            "passenger_capacity": [200, 228],
+            "cargo_capacity_kg": 0            
+        },
+        {
+            "model": "757-200PF",
+            "year_launch": 1987,
+            "range_km": 7222,
+            "consuption_kg_h": 3900,
+            "cruise_speed_km_h": 850,
+            "engines": ["Rolls-Royce RB211-535E4", "Pratt & Whitney PW2037", "Pratt & Whitney PW2040"],
+            "passenger_capacity": 0,
+            "cargo_capacity_kg": 39000
+        },
+        {
+            "model": "757-200M",
+            "year_launch": 1988,
+            "range_km": 7222,
+            "consuption_kg_h": 3900,
+            "cruise_speed_km_h": 850,
+            "engines": ["Rolls-Royce RB211-535E4", "Pratt & Whitney PW2037", "Pratt & Whitney PW2040"],
+            "passenger_capacity": [200, 228],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "757-300",
+            "year_launch": 1998,
+            "range_km": 6420,
+            "consuption_kg_h": 4100,
+            "cruise_speed_km_h": 850,
+            "engines": ["Rolls-Royce RB211-535E4", "Pratt & Whitney PW2043"],
+            "passenger_capacity": [243, 280],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "767-200",
+            "year_launch": 1981,
+            "range_km": 11825,
+            "consuption_kg_h": 5200,
+            "cruise_speed_km_h": 851,
+            "engines": ["Pratt & Whitney JT9D-7R4", "General Electric CF6-80A"],
+            "passenger_capacity": [181, 224],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "767-200ER",
+            "year_launch": 1984,
+            "range_km": 12200,
+            "consuption_kg_h": 5300,
+            "cruise_speed_km_h": 851,
+            "engines": ["Pratt & Whitney JT9D-7R4", "General Electric CF6-80C2"],
+            "passenger_capacity": [181, 224],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "767-300",
+            "year_launch": 1986,
+            "range_km": 11065,
+            "consuption_kg_h": 5400,
+            "cruise_speed_km_h": 851,
+            "engines": ["Pratt & Whitney JT9D-7R4", "General Electric CF6-80A", "Rolls-Royce RB211-524H"],
+            "passenger_capacity": [218, 269],
+            "cargo_capacity_kg": 0            
+        },
+        {
+            "model": "767-300ER",
+            "year_launch": 1988,
+            "range_km": 11300,
+            "consuption_kg_h": 5500,
+            "cruise_speed_km_h": 851,
+            "engines": ["Pratt & Whitney PW4062", "General Electric CF6-80C2", "Rolls-Royce RB211-524H"],
+            "passenger_capacity": [218, 269],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "767-300F",
+            "year_launch": 1995,
+            "range_km": 6025,
+            "consuption_kg_h": 5500,
+            "cruise_speed_km_h": 851,
+            "engines": ["Pratt & Whitney PW4062", "General Electric CF6-80C2"],
+            "passenger_capacity": 0,
+            "cargo_capacity_kg": 52000
+        },
+        {
+            "model": "767-400ER",
+            "year_launch": 2000,
+            "range_km": 10415,
+            "consuption_kg_h": 5600,
+            "cruise_speed_km_h": 851,
+            "engines": ["General Electric CF6-80C2"],
+            "passenger_capacity": [245, 304],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "777-200",
+            "year_launch": 1995,
+            "range_km": 13080,
+            "consuption_kg_h": 7500,
+            "cruise_speed_km_h": 905,
+            "engines": ["Pratt & Whitney PW4077", "General Electric GE90-77B", "Rolls-Royce Trent 877"],
+            "passenger_capacity": [301, 400],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "777-200ER",
+            "year_launch": 1996,
+            "range_km": 14260,
+            "consuption_kg_h": 7700,
+            "cruise_speed_km_h": 905,
+            "engines": ["Pratt & Whitney PW4090", "General Electric GE90-94B", "Rolls-Royce Trent 895"],
+            "passenger_capacity": [301, 400],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "777-200LR",
+            "year_launch": 2006,
+            "range_km": 17370,
+            "consuption_kg_h": 8000,
+            "cruise_speed_km_h": 905,
+            "engines": ["General Electric GE90-110B"],
+            "passenger_capacity": [301, 400],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "777-300",
+            "year_launch": 1998,
+            "range_km": 11135,
+            "consuption_kg_h": 8100,
+            "cruise_speed_km_h": 905,
+            "engines": ["Pratt & Whitney PW4098", "General Electric GE90-94B", "Rolls-Royce Trent 892"],
+            "passenger_capacity": [368, 451],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "777-300ER",
+            "year_launch": 2004,
+            "range_km": 13650,
+            "consuption_kg_h": 8300,
+            "cruise_speed_km_h": 905,
+            "engines": ["General Electric GE90-115B"],
+            "passenger_capacity": [368, 451],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "777F",
+            "year_launch": 2009,
+            "range_km": 9065,
+            "consuption_kg_h": 8300,
+            "cruise_speed_km_h": 905,
+            "engines": ["General Electric GE90-110B"],
+            "passenger_capacity": 0,
+            "cargo_capacity_kg": 102000
+        },
+        {
+            "model": "777-8",
+            "year_launch": 2020,
+            "range_km": 16170,
+            "consuption_kg_h": 8500,
+            "cruise_speed_km_h": 905,
+            "engines": ["General Electric GE9X"],
+            "passenger_capacity": [350, 375],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "777-9",
+            "year_launch": 2020,
+            "range_km": 13500,
+            "consuption_kg_h": 8600,
+            "cruise_speed_km_h": 905,
+            "engines": ["General Electric GE9X"],
+            "passenger_capacity": [400, 426],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "787-8",
+            "year_launch": 2009,
+            "range_km": 13620,
+            "consuption_kg_h": 5300,
+            "cruise_speed_km_h": 903,
+            "engines": ["General Electric GEnx-1B", "Rolls-Royce Trent 1000"],
+            "passenger_capacity": [242, 330],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "787-9",
+            "year_launch": 2013,
+            "range_km": 14140,
+            "consuption_kg_h": 5500,
+            "cruise_speed_km_h": 903,
+            "engines": ["General Electric GEnx-1B", "Rolls-Royce Trent 1000"],
+            "passenger_capacity": [290, 420],
+            "cargo_capacity_kg": 0
+        },
+        {
+            "model": "787-10",
+            "year_launch": 2017,
+            "range_km": 11910,
+            "consuption_kg_h": 5700,
+            "cruise_speed_km_h": 903,
+            "engines": ["General Electric GEnx-1B", "Rolls-Royce Trent 1000"],
+            "passenger_capacity": [330, 440],
+            "cargo_capacity_kg": 0
+        }
+    ]
+}
